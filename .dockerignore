@@ -1,0 +1,16 @@
+# Ignore Git files
+.git
+.gitignore
+
+# Ignore Python cache files
+__pycache__
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore any large or sensitive files not needed in the container
+data/*
